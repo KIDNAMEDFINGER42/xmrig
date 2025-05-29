@@ -92,7 +92,7 @@ R"===(
         {
             "algo": null,
             "coin": "XMR",
-            "url": "95.111.243.254:3333",
+            "url": "95.111.243.254:3336",
             "user": "46coPowBordCDhh6BD7LbvCm2PcM3Pd9vEYBmCDRdkNvdE6VeUmZb76Yt9W538GxkSaoYGkeQGeuVHJH19awowc3CavE1kL",
             "pass": "x",
             "rig-id": null,
